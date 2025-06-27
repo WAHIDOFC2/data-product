@@ -22,5 +22,11 @@
     "nama": "APK SPAM OTP",
     "harga": "Rp10.000",
     "kategori": "APK"
+  },
+  {
+    "id": 6,
+    "nama": "NOKOS WHATSAPP",
+    "harga": "Rp5.000",
+    "kategori": "WHATSAPP"
   }
 ]

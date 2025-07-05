@@ -12,21 +12,45 @@
     "kategori": "Hosting"
   },
   {
-    "id": 3,
-    "nama": "SCRIPT BUG",
-    "harga": "Rp50.000",
-    "kategori": "VIA WA / VIA TELE"
-  },
-  {
     "id": 5,
-    "nama": "APK SPAM OTP",
-    "harga": "Rp10.000",
-    "kategori": "APK"
+    "nama": "SC DRAGON",
+    "harga": "Rp30.000",
+    "kategori": "VIA WA"
   },
   {
     "id": 6,
-    "nama": "NOKOS WHATSAPP",
-    "harga": "Rp5.000",
-    "kategori": "WHATSAPP"
+    "nama": "SC JUSTIN",
+    "harga": "Rp60.000",
+    "kategori": "VIA WHATSAPP"
+  },
+  {
+    "id": 7,
+    "nama": "SC JUSTIN",
+    "harga": "Rp50.000",
+    "kategori": "VIA TELE"
+  },
+  {
+    "id": 8,
+    "nama": "SC WAHID",
+    "harga": "Rp45.000",
+    "kategori": "VIA WA"
+  },
+  {
+    "id": 9,
+    "nama": "SC MEGUMI",
+    "harga": "Rp35.000",
+    "kategori": "VIA WA"
+  }
+  {
+    "id": 10,
+    "nama": "SC VOID XMON",
+    "harga": "Rp60.000",
+    "kategori": "VIA TELE"
+  },
+  {
+    "id": 11,
+    "nama": "SC GHOST",
+    "harga": "Rp35.000",
+    "kategori": "VIA WA"
   }
 ]
